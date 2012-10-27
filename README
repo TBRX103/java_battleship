@@ -1,0 +1,33 @@
+Hello, and welcome to my first published project on GitHub!
+
+I'm still learning about the valuable tool that git is, and have decided to publish code here
+in order to get some feedback, and see if there's any interest in it at all!
+
+For now, this readme is really bad. I know, I'll improve it in time.
+
+
+Keep in mind that this code is really bad, I know. Spare me the criticisim, that's why
+I'm posting it here for improvement. This was a school project that I had created
+by myself and was the first time I ever developed not only a game, but a project that required use
+of network code.
+
+Some changes I hope to make to the code are:
+
+	* A dialog box that promps the user if they are a client/server
+	* Fix New Game for not working properly
+	* Graphics! I can't do Graphics!
+	* Alerts, text alerts sometimes just aren't enough for the user who may not be
+	paying attention!
+	* ???
+	
+Thanks for checking out my project, feel free to fork it and abide by the License attached,
+and I would appreciate any feedback, suggestions, comments, etc. Don't waste your time bashing me,
+spare your fingers!
+
+If you learned something from my project, great! I'm glad I was able to help you out!
+
+Thanks!
+
+-Benjamin Schellenberger
+
+	
